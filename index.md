@@ -2,7 +2,7 @@
 title: "Blockbench samples"
 description: "Get samples about how works the blockbench types documentation"
 author: juan3178316
-date: 2025-10-23
+date: 2025-10-28
 ---
 
 # Blockbench types documentation
