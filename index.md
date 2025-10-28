@@ -61,4 +61,4 @@ This is a plugin file structure, find more info [here](https://blockbench.net/wi
 
 - [`timeline.d.ts`](types/timeline.md)
 
-- [`action.d.ts`](types/action.md)
+- [`util.d.ts`](types/util.md)
